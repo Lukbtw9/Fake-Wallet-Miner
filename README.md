@@ -1,5 +1,5 @@
 # Fake-Wallet-Miner
-A Wallet Miner that seems like it mins trough Bitcoin or Ethereum Wallets
+A Wallet Miner that seems like it mines trough Bitcoin or Ethereum Wallets
 
 How to install?
 - Download the file
