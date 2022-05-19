@@ -11,5 +11,5 @@ How to install?
 This Script is only for educational purpose!
 
 
-This Miner was created by ___Luk-_-btw___
+This Miner was created by _Luk-_-btw_
 Discord: Luk-_-btw#6749
