@@ -4,6 +4,7 @@ A Wallet Miner that seems like it mines trough Bitcoin or Ethereum Wallets
 How to install?
 - Download the file
 - Download requirements if you haven't already
+- Replace the miner.exe in the 'Mining Tool' folder with the miner.exe in the main Folder 
 - Execute the script
 
 
