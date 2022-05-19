@@ -7,5 +7,8 @@ How to install?
 - Execute the script
 
 
+This Script is only for educational purpose!
+
+
 This Miner was created by Luk-_-btw
 Discord: Luk-_-btw#6749
